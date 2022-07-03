@@ -1,2 +1,2 @@
 # mila10680.github.io
-home
+home page
